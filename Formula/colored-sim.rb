@@ -1,8 +1,8 @@
 class ColoredSim < Formula
   desc "Colored borders for iOS Simulators — know which agent owns which simulator"
   homepage "https://github.com/ricardorios87/colored-simulators"
-  url "https://github.com/ricardorios87/colored-simulators/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "27e82f59a3fa9b19adb709c4bf254318efc6028d0483e326eabb5e118d791d75"
+  url "https://github.com/ricardorios87/colored-simulators/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "a840b9145504b5efb200756da82b721d96e54ba99bacee553cd78bdeecc7aae5"
   license "MIT"
 
   depends_on xcode: ["15.0", :build]
